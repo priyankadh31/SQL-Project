@@ -3,7 +3,7 @@
 -Conducted an in-depth analysis of a comprehensive Swiggy dataset.The study aimed to enhance user experience and boost restaurant performance on the Swiggy platform.
 
 
-1) Data Collection and Cleaning:
+1)Data Collection and Cleaning:
 Gathered a diverse dataset encompassing essential metrics and qualitative information relevant to restaurants on Swiggy.Conducted rigorous data cleaning processes to ensure accuracy and reliability in the analysis.
 
 2)KPI Definition and Analysis:
