@@ -1,7 +1,6 @@
 # SQL_Swiggy_CaseStudy
 
--Conducted an in-depth analysis of a comprehensive Swiggy dataset.
--The study aimed to enhance user experience and boost restaurant performance on the Swiggy platform.
+-Conducted an in-depth analysis of a comprehensive Swiggy dataset.The study aimed to enhance user experience and boost restaurant performance on the Swiggy platform.
 
 
 1) Data Collection and Cleaning:
